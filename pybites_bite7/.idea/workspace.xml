@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86bcb0ef-509e-4850-9da2-61eb830ae896" name="Default Changelist" comment="completed solution" />
+    <list default="true" id="86bcb0ef-509e-4850-9da2-61eb830ae896" name="Default Changelist" comment="py bite 28 added">
+      <change afterPath="$PROJECT_DIR$/PyBites28/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyBites28/bite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyBites28/dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyBites28/git.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyBites28/test_dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,19 +36,43 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aRKE9zqkhiksP2JVC81ndKmCij" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.logtimes">
+  <component name="RunManager" selected="Python.dates">
+    <configuration name="dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pybites_bite7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyBites28" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyBites28/dates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="logtimes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pybites_bite7" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dates" />
         <item itemvalue="Python.logtimes" />
         <item itemvalue="Python tests.pytest for test_logtimes.test_time_between_events" />
       </list>
@@ -111,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586705308473</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="py bite 28 added">
+      <created>1586705705660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586705705660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,34 +165,36 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test change" />
     <MESSAGE value="completed solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed solution" />
+    <MESSAGE value="py bite 28 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="py bite 28 added" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1586705507428">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1586706207648">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586705507428" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1586705507428">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586706207648" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1586706207648">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586705507428" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1586705507428">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586706207648" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1586706207648">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586705507428" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1586705507428">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586706207648" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1586706207648">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586705507428" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586706207648" />
     <state x="303" y="76" key="SettingsEditor" timestamp="1586692927376">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="303" y="76" key="SettingsEditor/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586692927376" />
-    <state x="611" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586693551013">
+    <state x="611" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586716463906">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="611" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586693551013" />
+    <state x="611" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586716463906" />
   </component>
 </project>
