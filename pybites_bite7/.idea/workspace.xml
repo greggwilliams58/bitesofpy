@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86bcb0ef-509e-4850-9da2-61eb830ae896" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pybites_bite7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="86bcb0ef-509e-4850-9da2-61eb830ae896" name="Default Changelist" comment="test change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logtimes.py" beforeDir="false" afterPath="$PROJECT_DIR$/logtimes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1586692851741</updated>
     </task>
+    <task id="LOCAL-00001" summary="test change">
+      <created>1586693535194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586693535194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,26 +104,34 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test change" />
+    <option name="LAST_COMMIT_MESSAGE" value="test change" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1586693377728">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1586705176147">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586693377728" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1586693377727">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586705176147" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1586705176146">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586693377727" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1586693377727">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586705176146" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1586705176146">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586693377727" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1586693377728">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586705176146" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1586705176147">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586693377728" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586705176147" />
     <state x="303" y="76" key="SettingsEditor" timestamp="1586692927376">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="303" y="76" key="SettingsEditor/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586692927376" />
+    <state x="611" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586693551013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="611" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1586693551013" />
   </component>
 </project>
